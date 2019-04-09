@@ -1,0 +1,2 @@
+---Create table successful---
+elapsed time:2.34437s
